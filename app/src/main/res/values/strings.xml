@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Intent_ImplicitIntent</string>
+    <string name="button_text_openwebsite">Open Website</string>
+    <string name="button_text_openlocation">Open Location</string>
+    <string name="button_text_sharetext">Share Text</string>
+    <string name="hint_website">www.github.com/amansharma-dev</string>
+    <string name="hint_location">Github HQ</string>
+    <string name="hint_sharetext">Hello.</string>
+    <string name="text_share_text_with">Share Text With</string>
 </resources>
